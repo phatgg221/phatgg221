@@ -17,3 +17,14 @@
 phatgg221/phatgg221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1 style="animation: fadeIn 2s ease-in;">
+  Welcome to My GitHub Profile!
+</h1>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
