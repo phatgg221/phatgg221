@@ -22,9 +22,4 @@ You can click the Preview link to take a look at your changes.
   Welcome to My GitHub Profile!
 </h1>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
+
