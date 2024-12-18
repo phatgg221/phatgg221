@@ -19,3 +19,54 @@
 [![](https://visitcount.itsvg.in/api?id=phatgg221&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# 🦾 Projects:
+
+## <a href="https://github.com/tutur3u/platform" target="blank">Tuturuuu (Platform Engineer):</a>
+As a Platform Engineer at a startup, I develop full-stack solutions using Supabase, React, Next.js, and ShadCN to build scalable web applications. I design and implement RESTful APIs, ensuring seamless integration between frontend and backend while supporting rapid growth.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1816856437567406080/ByISu1ft_400x400.jpg" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
+
+
+## <a href="https://github.com/tutur3u/platform" target="blank">RMIT Neo Culture Tech Landing Page:</a>
+A responsive and user-friendly landing page built using React and Next.js. The page is designed to capture users' attention with a clean, modern layout and engaging visuals. It features optimized performance, seamless navigation, and is integrated with backend services for dynamic content. Developed with a mobile-first approach, it ensures a smooth user experience across all devices.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
+
+## <a href="https://neo-frontend-three.vercel.app/member" target="blank">RMIT Neo Culture Tech Landing Page:</a>
+A responsive and user-friendly landing page built using React and Next.js. The page is designed to capture users' attention with a clean, modern layout and engaging visuals. It features optimized performance, seamless navigation, and is integrated with backend services for dynamic content. Developed with a mobile-first approach, it ensures a smooth user experience across all devices.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
+
+## <a href="https://github.com/RmitNeoculturetechclub/nct-landing-page-backend" target="blank">RMIT Neo Culture Tech Management Page:</a>
+A robust management page built with Vanilla JavaScript, Node.js, and MongoDB, following the MVC (Model-View-Controller) design pattern. The application utilizes JWT for secure authentication and ESLint for maintaining clean and consistent code. It provides an intuitive interface for managing data, with full CRUD functionality and a scalable backend that ensures efficient data handling and security.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_V-cg8GUXAA9wMHgfOFPRZz914-OQb2H5A&s" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9j4QuDzQEIjR8-zyb1I8zv3NnfBT8AFoh5A&s" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
