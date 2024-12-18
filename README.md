@@ -70,3 +70,36 @@ A robust management page built with Vanilla JavaScript, Node.js, and MongoDB, fo
   <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
   <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
 </p>
+
+## <a href="https://github.com/phatgg221/Club_web_project" target="blank">RMIT Golden Flames Club Management Page:</a>
+As the lead developer for the Club Management Page, I built the application using Next.js, React, and MongoDB. I created custom components and implemented features for managing club members, content writing, and sending emails. Additionally, I managed the project timeline and coordinated team efforts to ensure the product met functional and technical requirements.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
+
+## <a href="https://github.com/lluciiiia/SEDfinal" target="blank">Renting bike applciation:</a>
+This project is a motorbike rental application built in C++ as part of a group assignment. Through the development process, I applied key object-oriented programming concepts, including encapsulation, inheritance, and polymorphism, to create a robust system with features such as user registration, motorbike listing, rental management, and rating mechanisms. Beyond coding, this project enhanced my skills in software design, teamwork, and handling practical challenges like file management, user validation, and implementing a credit-based transaction system.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrd-mQQPmg1J7CrvGxgpqJuKdnVLDJs4U0Q&s" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
+
+
+## <a href="" target="blank">Renting disks applciation:</a>
+This project involved creating a JavaFX-based video store management application for Genie’s Video Store, replacing a paper-based system with a digital platform. The app enables functionalities like inventory management, customer account handling, rentals, returns, and customer promotions, all integrated into a user-friendly GUI. Throughout this project, I strengthened my knowledge of object-oriented programming concepts such as inheritance, polymorphism, and encapsulation, and honed my skills in GUI development, file management, and Java application deployment across multiple operating systems.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6laVyMkZrWDSF-rcatBXkVyj3R918YaKdQ&s" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" alt="peter kimanzi" height="50" width="50" /></a>
+</p>
