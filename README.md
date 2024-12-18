@@ -5,6 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/phat-huynh-6bb5a2247/" target="blank"><img align="center" src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="peter kimanzi" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006242687125" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9" alt="peter kimanzi" height="40" width="40" /></a>
 <p/>
 
 # 💻 Tech Stack:
