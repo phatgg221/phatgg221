@@ -23,6 +23,24 @@
 
 # 🦾 Projects:
 
+## <a href="https://github.com/phatgg221/cloud-developing-app" target="blank">Cafenia (an AWS project):</a>
+This AWS-based architecture is designed for a secure, scalable web application. It uses **Route 53** and **WAF** for traffic routing and security, **ELB** and **EC2** for hosting, and **Cognito** for user authentication. Data is stored in **DynamoDB** with **Redis Elastic Cache** for faster lookups. File storage is managed with **S3** and distributed via **CloudFront**. Notifications and workflows use **SNS**, **SQS**, and **Step Functions**, while developers deploy using **ECR** with Docker images.
+
+**Technologies Used**
+
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_V-cg8GUXAA9wMHgfOFPRZz914-OQb2H5A&s" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9j4QuDzQEIjR8-zyb1I8zv3NnfBT8AFoh5A&s" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
+  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="peter kimanzi" height="50" width="50" /></a>
+  
+</p>
+
+
+
+
 ## <a href="https://github.com/tutur3u/platform" target="blank">Tuturuuu (Platform Engineer):</a>
 As a Platform Engineer at a startup, I develop full-stack solutions using Supabase, React, Next.js, and ShadCN to build scalable web applications. I design and implement RESTful APIs, ensuring seamless integration between frontend and backend while supporting rapid growth.
 
