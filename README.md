@@ -25,15 +25,20 @@ Recent work is centered on document extraction pipelines, automated slide genera
 
 ## Featured Projects
 
-### [iqa-extract2](https://github.com/phatgg221/iqa-extract2)
-TypeScript document extraction service for delivery dockets/packing lists with strict evidence tracing and refusal-first logic when data cannot be verified from page text.
+### [my-app](https://github.com/phatgg221/my-app)
+Vendor onboarding platform built with Next.js + TypeScript to replace spreadsheet-based operations with structured workflow tracking. The project includes stage-transition history, SLA/stuck-vendor monitoring, PostgreSQL + Prisma data modeling, and S3-compatible document handling.
 
-**Tech:** TypeScript, Next.js, OCR/document parsing workflows, test-driven validation
+**Tech:** TypeScript, Next.js 16, PostgreSQL, Prisma, AWS S3/MinIO, Docker
 
-### [iqa-extract](https://github.com/phatgg221/iqa-extract)
-Earlier iteration of the document extraction system, focused on deterministic table parsing, per-page error containment, and transparent extraction decisions.
+### [guess-your-paddy](https://github.com/phatgg221/guess-your-paddy)
+Frontend application for rice analysis workflows where users upload crop images and receive model-driven outputs for disease detection, rice variety, and crop age estimation. The app is designed as a responsive interface connected to an AI backend pipeline.
 
-**Tech:** TypeScript, Next.js, Vitest
+**Tech:** TypeScript, React, Vite, Tailwind CSS, Cloudinary integrations
+
+### [test-app](https://github.com/phatgg221/test-app)
+PhotoShare social feed focused on media-heavy UX: Google OAuth login, multi-image post uploads, modal/carousel viewing, real-time style comment interactions, and post editing/deletion flows backed by database + object storage.
+
+**Tech:** TypeScript, Next.js App Router, Prisma, PostgreSQL (Neon), AWS S3
 
 ### [Slide-generator-lab](https://github.com/phatgg221/Slide-generator-lab)
 Python project for AI-assisted slide generation from PPTX/SVG templates while preserving layout constraints; published as `slide-skills`.
@@ -62,9 +67,9 @@ Club management web project built with Next.js and Node.js ecosystem tooling, in
 
 ## Additional Work
 
-- [markitdown-service](https://github.com/phatgg221/markitdown-service) – document-to-markdown service setup based on the MarkItDown ecosystem.
-- [my-app](https://github.com/phatgg221/my-app), [test-app](https://github.com/phatgg221/test-app), [guess-your-paddy](https://github.com/phatgg221/guess-your-paddy) – TypeScript project iterations and experiments.
-- [cloud-developing-ass3](https://github.com/phatgg221/cloud-developing-ass3) – earlier cloud/web coursework repository.
+- [markitdown-service](https://github.com/phatgg221/markitdown-service) – MarkItDown-based service repository.
+- [phatgg221.github.io](https://github.com/phatgg221/phatgg221.github.io) – personal GitHub Pages site source.
+- [cloud-developing-ass3](https://github.com/phatgg221/cloud-developing-ass3) and [GitHub_Actions](https://github.com/phatgg221/GitHub_Actions) – course and CI practice repositories.
 
 ## GitHub Stats
 
