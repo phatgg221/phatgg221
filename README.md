@@ -1,123 +1,77 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-# 💫 About Me:
-👋 Hello, World! I'm @phatgg221.<br><br>🍽️ As a culinary enthusiast, I find joy in exploring diverse cuisines and flavors. My love for food fuels my creativity and problem-solving skills in unexpected ways.<br><br>💻 I'm currently immersing myself in the dynamic world of software engineering, constantly learning and adapting to new technologies and methodologies.<br><br>🤝 I'm eager to collaborate on innovative personal projects. I believe that great things are never done by one person, they're done by a team of people.<br><br>📮 Feel free to reach out to me for any exciting opportunities or collaborations at tanphat.huynh23@gmail.com. Let's create something amazing together!
+# Hi, I'm Phat Huynh 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/phat-huynh-6bb5a2247/" target="blank"><img align="center" src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="peter kimanzi" height="40" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006242687125" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9" alt="peter kimanzi" height="40" width="40" /></a>
-<p/>
+I build practical software across **full-stack web development**, **cloud-backed applications**, and **AI-assisted tooling**.  
+Recent work is centered on document extraction pipelines, automated slide generation, and production-style web systems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phatgg221&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phatgg221&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phatgg221&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Connect
 
----
-[![](https://visitcount.itsvg.in/api?id=phatgg221&icon=0&color=0)](https://visitcount.itsvg.in)
+- [LinkedIn](https://www.linkedin.com/in/phat-huynh-6bb5a2247/)
+- [Facebook](https://www.facebook.com/profile.php?id=100006242687125)
+- [GitHub Pages](https://phatgg221.github.io/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Toolkit
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 🦾 Projects:
+## Featured Projects
 
-## <a href="https://github.com/phatgg221/cloud-developing-app" target="blank">Cafenia (an AWS project):</a>
-This AWS-based architecture is designed for a secure, scalable web application. It uses **Route 53** and **WAF** for traffic routing and security, **ELB** and **EC2** for hosting, and **Cognito** for user authentication. Data is stored in **DynamoDB** with **Redis Elastic Cache** for faster lookups. File storage is managed with **S3** and distributed via **CloudFront**. Notifications and workflows use **SNS**, **SQS**, and **Step Functions**, while developers deploy using **ECR** with Docker images.
+### [my-app](https://github.com/phatgg221/my-app)
+Vendor onboarding platform built with Next.js + TypeScript to replace spreadsheet-based operations with structured workflow tracking. The project includes stage-transition history, SLA/stuck-vendor monitoring, PostgreSQL + Prisma data modeling, and S3-compatible document handling.
 
-**Technologies Used**
+**Tech:** TypeScript, Next.js 16, PostgreSQL, Prisma, AWS S3/MinIO, Docker
 
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_V-cg8GUXAA9wMHgfOFPRZz914-OQb2H5A&s" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9j4QuDzQEIjR8-zyb1I8zv3NnfBT8AFoh5A&s" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s" alt="peter kimanzi" height="50" width="50" /></a>
-  
-</p>
+### [guess-your-paddy](https://github.com/phatgg221/guess-your-paddy)
+Frontend application for rice analysis workflows where users upload crop images and receive model-driven outputs for disease detection, rice variety, and crop age estimation. The app is designed as a responsive interface connected to an AI backend pipeline.
 
+**Tech:** TypeScript, React, Vite, Tailwind CSS, Cloudinary integrations
 
+### [test-app](https://github.com/phatgg221/test-app)
+PhotoShare social feed focused on media-heavy UX: Google OAuth login, multi-image post uploads, modal/carousel viewing, real-time style comment interactions, and post editing/deletion flows backed by database + object storage.
 
+**Tech:** TypeScript, Next.js App Router, Prisma, PostgreSQL (Neon), AWS S3
 
-## <a href="https://github.com/tutur3u/platform" target="blank">Tuturuuu (Platform Engineer):</a>
-As a Platform Engineer at a startup, I develop full-stack solutions using Supabase, React, Next.js, and ShadCN to build scalable web applications. I design and implement RESTful APIs, ensuring seamless integration between frontend and backend while supporting rapid growth.
+### [Slide-generator-lab](https://github.com/phatgg221/Slide-generator-lab)
+Python project for AI-assisted slide generation from PPTX/SVG templates while preserving layout constraints; published as `slide-skills`.
 
-**Technologies Used**
+**Tech:** Python, OpenAI integrations, SVG/PPTX processing, PyPI packaging
 
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1816856437567406080/ByISu1ft_400x400.jpg" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
+### [cloud-developing-app](https://github.com/phatgg221/cloud-developing-app)
+Next.js web app paired with an AWS-focused deployment architecture (WAF/Route 53/ELB/EC2/Cognito/S3/CloudFront and messaging services).
 
+**Tech:** JavaScript, Next.js, AWS services, Docker
 
-## <a href="https://github.com/tutur3u/platform" target="blank">RMIT Neo Culture Tech Landing Page:</a>
-A responsive and user-friendly landing page built using React and Next.js. The page is designed to capture users' attention with a clean, modern layout and engaging visuals. It features optimized performance, seamless navigation, and is integrated with backend services for dynamic content. Developed with a mobile-first approach, it ensures a smooth user experience across all devices.
+### [NeoLeauge](https://github.com/phatgg221/NeoLeauge)
+TypeScript backend service with Express + Prisma, WebSocket communication, and integrations for mapping and generative AI APIs.
 
-**Technologies Used**
+**Tech:** TypeScript, Express, Prisma, Socket.IO, Google APIs
 
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
+### [ML_backend](https://github.com/phatgg221/ML_backend)
+FastAPI backend for rice disease classification and growth-stage estimation using TensorFlow models, with local and Docker execution support.
 
-## <a href="https://neo-frontend-three.vercel.app/member" target="blank">RMIT Neo Culture Tech Landing Page:</a>
-A responsive and user-friendly landing page built using React and Next.js. The page is designed to capture users' attention with a clean, modern layout and engaging visuals. It features optimized performance, seamless navigation, and is integrated with backend services for dynamic content. Developed with a mobile-first approach, it ensures a smooth user experience across all devices.
+**Tech:** Python, FastAPI, TensorFlow, Docker
 
-**Technologies Used**
+### [Club_web_project](https://github.com/phatgg221/Club_web_project)
+Club management web project built with Next.js and Node.js ecosystem tooling, including MongoDB and authentication-oriented packages.
 
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
+**Tech:** JavaScript, Next.js, Express, MongoDB
 
-## <a href="https://github.com/RmitNeoculturetechclub/nct-landing-page-backend" target="blank">RMIT Neo Culture Tech Management Page:</a>
-A robust management page built with Vanilla JavaScript, Node.js, and MongoDB, following the MVC (Model-View-Controller) design pattern. The application utilizes JWT for secure authentication and ESLint for maintaining clean and consistent code. It provides an intuitive interface for managing data, with full CRUD functionality and a scalable backend that ensures efficient data handling and security.
+## Additional Work
 
-**Technologies Used**
+- [markitdown-service](https://github.com/phatgg221/markitdown-service) – MarkItDown-based service repository.
+- [phatgg221.github.io](https://github.com/phatgg221/phatgg221.github.io) – personal GitHub Pages site source.
+- [cloud-developing-ass3](https://github.com/phatgg221/cloud-developing-ass3) and [GitHub_Actions](https://github.com/phatgg221/GitHub_Actions) – course and CI practice repositories.
 
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_V-cg8GUXAA9wMHgfOFPRZz914-OQb2H5A&s" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9j4QuDzQEIjR8-zyb1I8zv3NnfBT8AFoh5A&s" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
+## GitHub Stats
 
-## <a href="https://github.com/phatgg221/Club_web_project" target="blank">RMIT Golden Flames Club Management Page:</a>
-As the lead developer for the Club Management Page, I built the application using Next.js, React, and MongoDB. I created custom components and implemented features for managing club members, content writing, and sending emails. Additionally, I managed the project timeline and coordinated team efforts to ensure the product met functional and technical requirements.
-
-**Technologies Used**
-
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://external-preview.redd.it/ZTKVCne_ZlanhjrqBm4x7_-TLSAsvqukF6oAB3y8ZAI.jpg?width=640&crop=smart&auto=webp&s=fa3b24c6880d8626b13fc115bbefb36cb5cd006c" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
-
-## <a href="https://github.com/lluciiiia/SEDfinal" target="blank">Renting bike applciation:</a>
-This project is a motorbike rental application built in C++ as part of a group assignment. Through the development process, I applied key object-oriented programming concepts, including encapsulation, inheritance, and polymorphism, to create a robust system with features such as user registration, motorbike listing, rental management, and rating mechanisms. Beyond coding, this project enhanced my skills in software design, teamwork, and handling practical challenges like file management, user validation, and implementing a credit-based transaction system.
-
-**Technologies Used**
-
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrd-mQQPmg1J7CrvGxgpqJuKdnVLDJs4U0Q&s" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
-
-
-## <a href="" target="blank">Renting disks applciation:</a>
-This project involved creating a JavaFX-based video store management application for Genie’s Video Store, replacing a paper-based system with a digital platform. The app enables functionalities like inventory management, customer account handling, rentals, returns, and customer promotions, all integrated into a user-friendly GUI. Throughout this project, I strengthened my knowledge of object-oriented programming concepts such as inheritance, polymorphism, and encapsulation, and honed my skills in GUI development, file management, and Java application deployment across multiple operating systems.
-
-**Technologies Used**
-
-<p align="center">
-  <a href="" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6laVyMkZrWDSF-rcatBXkVyj3R918YaKdQ&s" alt="peter kimanzi" height="50" width="50" /></a>
-  <a href="" target="blank"><img align="center" src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" alt="peter kimanzi" height="50" width="50" /></a>
-</p>
+![GitHub stats for phatgg221](https://github-readme-stats.vercel.app/api?username=phatgg221&show_icons=true&theme=transparent&hide_border=true)
+![Top languages used by phatgg221](https://github-readme-stats.vercel.app/api/top-langs/?username=phatgg221&layout=compact&theme=transparent&hide_border=true)
